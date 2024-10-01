@@ -1,2 +1,2 @@
 # MyProjects
-a few scripts of my self own
+some of my published projects 
